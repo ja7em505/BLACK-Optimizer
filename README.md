@@ -2,7 +2,7 @@
 
 **أداة تحسين ويندوز الشاملة — ارفع FPS، نظّف جهازك، أصلح النظام، وراقب كل شيء من واجهة سوداء/ذهبية فاخرة**
 
-![الإصدار](https://img.shields.io/badge/الإصدار-1.0.1-d4af37) ![النظام](https://img.shields.io/badge/النظام-Windows%2010%2F11-00A4EF) ![Electron](https://img.shields.io/badge/Electron-37-green) ![الترخيص](https://img.shields.io/badge/الترخيص-Proprietary-blue)
+![الإصدار](https://img.shields.io/badge/الإصدار-1.0.0-d4af37) ![النظام](https://img.shields.io/badge/النظام-Windows%2010%2F11-00A4EF) ![Electron](https://img.shields.io/badge/Electron-37-green) ![الترخيص](https://img.shields.io/badge/الترخيص-Proprietary-blue)
 
 > ⚡ أداة واحدة. كل التحسينات. أقصى أداء. سيطرة كاملة على جهازك. 🎮🔥
 
@@ -102,7 +102,7 @@
 ### الطريقة الأولى: التثبيت (مفضلة)
 
 1. اذهب لصفحة **[Releases](https://github.com/ja7em505/BLACK-Optimizer/releases)**
-2. حمّل أحدث مثبّت مباشرة: **[Black-Optimizer-Setup-1.0.1.exe](https://github.com/ja7em505/BLACK-Optimizer/releases/download/v1.0.1/Black-Optimizer-Setup-1.0.1.exe)**
+2. حمّل أحدث مثبّت مباشرة: **[Black-Optimizer-Setup-1.0.0.exe](https://github.com/ja7em505/BLACK-Optimizer/releases/download/v1.0.0/Black-Optimizer-Setup-1.0.0.exe)**
 3. شغّل المثبت واتبع الخطوات ✅
 4. افتح **BLACK OPTIMIZER** من سطح المكتب أو قائمة ابدأ
 
